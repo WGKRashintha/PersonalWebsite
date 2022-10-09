@@ -44,6 +44,7 @@
 }
 .navigation ul li a{
     text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
     color: white;
 }
 .toggle-hamburger{
