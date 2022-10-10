@@ -38,7 +38,7 @@ document.getElementById("userForm").addEventListener("submit" , function(e){
     })
     if(e.isTrusted==true){
         clearFields();
-        alert("Successfully sent");
+        alert("Successfully sent !");
     }else{
         alert("Message not sent !");
     }
